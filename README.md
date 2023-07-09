@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi There!
+```python
+$ python
 
-<!--
-**Juhibhojani/Juhibhojani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+>>> from Juhibhojani import README
+>>> README.md()
 
-Here are some ideas to get you started:
+{
+    "About": "Hi, Juhi this side 👋",
+    "I'm": "Into Data Science and Machine Learning",
+    "Learning": "Natural Language Processing",
+    "Looking to ": "Collaborate on Open-Source projects",
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+>>> exit()
+```
+Connect with me at : <a href="https://www.linkedin.com/in/juhi-bhojani/"> Juhi Bhojani </a>
+  
